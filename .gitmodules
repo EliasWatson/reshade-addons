@@ -1,0 +1,6 @@
+[submodule "deps/reshade"]
+	path = deps/reshade
+	url = https://github.com/crosire/reshade.git
+[submodule "deps/imgui"]
+	path = deps/imgui
+	url = https://github.com/ocornut/imgui.git
